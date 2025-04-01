@@ -1,0 +1,24 @@
+{
+  "name": "My Custom Token List",
+  "logoURI": "https://gateway.pinata.cloud/ipfs/bafkreiezeogqbqpeqpoyhgrhyib6lv27x2cqnzpin4it6mjxsifl6v3ypq",
+  "keywords": [
+    "momocoin",
+    "defi"
+  ],
+  "timestamp": "2025-04-01T12:00:00.000Z",
+  "tokens": [
+    {
+      "name": "MoMoCoin",
+      "symbol": "MMC",
+      "address": "0xc2430267F35d215ef6ed427e463d0E6b58737EcB",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/bafkreiezeogqbqpeqpoyhgrhyib6lv27x2cqnzpin4it6mjxsifl6v3ypq"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
