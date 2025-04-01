@@ -1,16 +1,16 @@
 {
-  "name": "MoMoCoin List",
+  "name": "MOMOCOIN LIST",
   "logoURI": "https://gateway.pinata.cloud/ipfs/bafkreiezeogqbqpeqpoyhgrhyib6lv27x2cqnzpin4it6mjxsifl6v3ypq",
   "keywords": [
     "momocoin",
     "defi"
   ],
-  "timestamp": "2023-04-01T12:00:00.000Z",
+  "timestamp": "2025-04-01T12:00:00.000Z",
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc2430267F35d215ef6ed427e463d0E6b58737EcB",
-      "name": "MoMoCoin",
+      "address": "0xc243026f735d215efeed4274eb3d0f6b5873fcb",
+      "name": "MOMOCOIN",
       "symbol": "MMC",
       "decimals": 18,
       "logoURI": "https://gateway.pinata.cloud/ipfs/bafkreiezeogqbqpeqpoyhgrhyib6lv27x2cqnzpin4it6mjxsifl6v3ypq"
